@@ -24,17 +24,13 @@ Menu page:
 
 Order summary:
 
-<img width="943" alt="image" src="https://github.com/uday30049/rishabs/assets/112474023/14af9482-4c36-4bf7-a4d9-a6343124b245">
+<img width="960" alt="image" src="https://github.com/uday30049/rishabs/assets/112474023/0807aecf-52e5-4705-9251-1baa24e0c704">
 
 Order status:
 
-<img width="960" alt="image" src="https://github.com/uday30049/rishabs/assets/112474023/0807aecf-52e5-4705-9251-1baa24e0c704">
-
-Server side or restaurant side:
-
 <img width="960" alt="image" src="https://github.com/uday30049/rishabs/assets/112474023/1548b03e-a59d-4438-876b-f6aa7f2010b7">
 
-Feedback:
+Server side or restaurant side:
 
 <img width="960" alt="image" src="https://github.com/uday30049/rishabs/assets/112474023/1a870b71-0716-4e68-aabf-b8e8126c752c">
 
