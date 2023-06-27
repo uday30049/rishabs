@@ -1,5 +1,7 @@
 # rishabs
 
+1.first perform git clone 
+
 <img width="950" alt="image" src="https://github.com/uday30049/rishabs/assets/112474023/747fa1f4-08ae-4202-9a4b-083030aa8fd6">
 
 <img width="950" alt="image" src="https://github.com/uday30049/rishabs/assets/112474023/3118a162-917a-43b4-99fe-f57926188011">
